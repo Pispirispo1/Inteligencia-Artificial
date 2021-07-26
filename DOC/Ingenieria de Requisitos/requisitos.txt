@@ -1,0 +1,6 @@
+Documento con metodos de investigacion
+documento con la recoleccion de datos 
+cocumento con la tabulacion de los datos y graficas
+modelo canvas
+mapas de proceso
+definicion de los requerimientos funcionales y no funcionales

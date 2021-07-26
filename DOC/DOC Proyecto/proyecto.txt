@@ -1,0 +1,7 @@
+Documento con la descripción del sofware
+diagrama de gantt
+el trello. kamban
+documento misional y de objetivos
+definicion de la estructura del software casos de uso, diagrama de clases, diagramas de flujo
+modelado conceptual
+metodologia Scrum, diapositiva de Explicasion del sistema y su alcance.
